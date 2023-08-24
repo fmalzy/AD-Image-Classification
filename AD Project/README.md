@@ -29,9 +29,6 @@
 
 # Potential Optimization methods:
 
-# 1. Fine-tuning: 
-Change the optimizer (Adam), change the batch size, change the learning rate, play around with the horizontal flips
-# 2. Classes: 
-Change the number of classes 
-# 3. Balanced dataset: 
-Balance the dataset in each class so that the model can learn each of them equally 
+1. Fine-tuning: Change the optimizer (Adam), change the batch size, change the learning rate, play around with the horizontal flips
+2. Classes: Change the number of classes 
+3. Balanced dataset: Balance the dataset in each class so that the model can learn each of them equally 
