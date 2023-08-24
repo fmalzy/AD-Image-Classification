@@ -27,7 +27,7 @@
 12. Crete a confusion matrix to compare the validation error in different classes
 
 
-Potential Optimization methods: 
+##Potential Optimization methods:## 
 
 1. Fine-tuning: Change the optimizer (Adam), change the batch size, change the learning rate, play around with the horizontal flips
 2. Classes: Change the number of classes 
