@@ -1,7 +1,7 @@
-# AD Image Classification Project with Machine Learning 
+# AD Image Classification Project with Machine Learning Procedure and Optimization Considerations
 
-##Project Procedures:##
 
+# Project Procedures:
 1. Installment and preparation: Please make sure to install all necessary packages (e.g., TensorFlow) and make sure that they run in your local environment (please note that TensorFlow might not work in the Anaconda Jupiter Notebook environment. If that's the case, GoogleColab might be a potential option).
 
 2. Download the ResNet-50 weights from ResNet-50.com for later usages
@@ -27,8 +27,11 @@
 12. Crete a confusion matrix to compare the validation error in different classes
 
 
-##Potential Optimization methods:## 
+# Potential Optimization methods:
 
-1. Fine-tuning: Change the optimizer (Adam), change the batch size, change the learning rate, play around with the horizontal flips
-2. Classes: Change the number of classes 
-3. Balanced dataset: Balance the dataset in each class so that the model can learn each of them equally 
+# 1. Fine-tuning: 
+Change the optimizer (Adam), change the batch size, change the learning rate, play around with the horizontal flips
+# 2. Classes: 
+Change the number of classes 
+# 3. Balanced dataset: 
+Balance the dataset in each class so that the model can learn each of them equally 
